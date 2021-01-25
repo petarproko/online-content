@@ -1,0 +1,11 @@
+{
+  "name": "online-content",
+  "version": "1.0.0",
+  "description": "repository for all my online content",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js"
+  },
+  "author": "Petar Prokopenko",
+  "license": "ISC"
+}
